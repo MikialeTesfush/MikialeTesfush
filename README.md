@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming language
 - 💬 Ask me about python
 - 🌱 I’m currently learning Data Analyst in Udacity Nano Degree program
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
