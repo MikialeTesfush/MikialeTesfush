@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Mikiale Tesfamariam</h1>
 
 -   🌱 I’m currently learning ** Data Analyst In Udacity**
--   💬 Ask me about **python**
+-   💬 Ask me about **Data Analysis and python**
 - 📫 How to reach me **mikiyo.tsfu12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
