@@ -1,12 +1,17 @@
 @@ -1,22 +1,33 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MikialeTesfush&label=Profile%20views&color=0062ff&style=flat" alt="MikialeTesfusht" /> </p>
-<h1 align="center">Hello 👋, I'm Mikiale Tesfamariam</h1>
--   🌱 I’m currently learning ** Data Analyst**
--   💬 Ask me about **python**
+<h1 align="center">Hello 👋, I'm Mikiale Tesfamariam </h1>
+
+-  🌱 I’m currently learning ** Data Analyst**
+-  
+-  💬 Ask me about **python**
+-  
 - 📫 How to reach me **mikiyo.tsfu12@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="[https://https://www.linkedin.com/in/mikiale-tesfamariam-8a439b20a](https://www.linkedin.com/in/mikiale-tesfamariam-8a439b20a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8m4FU7RHRLKWUn0UPZGV6A%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MikialeTesfush" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/mikiale-tesfamariam-8a439b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MikialeTesfush" height="30" width="40" /></a>
 <a href="https://https://www.kaggle.com/mikialetesfamariam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="MikialeTesfush" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
