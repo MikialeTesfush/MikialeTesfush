@@ -2,8 +2,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MikialeTesfush&label=Profile%20views&color=0062ff&style=flat" alt="MikialeTesfusht" /> </p>
 <h1 align="center">Hello 👋, I'm Mikiale Tesfamariam</h1>
 
--   🌱 I’m currently learning ** Data Analyst In Udacity**
--   💬 Ask me about **Data Analysis and python**
+-   🌱 I’m currently learning ** none**
+-   💬 Ask me about **python**
 - 📫 How to reach me **mikiyo.tsfu12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
